@@ -47,9 +47,7 @@ I’m passionate about exploring how **Data Science** and **MLOps** can work tog
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](#)  
-- 🧑‍💻 [GitHub](#)  
-- 📧 **abdulhameed.ai@gmail.com**  
+- 📧 **hameedkhanutp@gmail.com**  
 
 ---
 
